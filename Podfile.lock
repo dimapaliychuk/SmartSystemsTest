@@ -1,0 +1,15 @@
+PODS:
+  - GiphyCoreSDK (1.1.0)
+  - SwiftyGif (4.1.0)
+
+DEPENDENCIES:
+  - GiphyCoreSDK
+  - SwiftyGif
+
+SPEC CHECKSUMS:
+  GiphyCoreSDK: 1bfdbc1c9ae2c09bbaa39b3a6159cbb9bf240a4a
+  SwiftyGif: d36c6dfb52e2ca1e48fe349d225f50ec4123ec85
+
+PODFILE CHECKSUM: 623ae90cabec5dcbafff67990163b8090726b1cf
+
+COCOAPODS: 1.4.0
